@@ -1,0 +1,570 @@
+KC- 2
+
+1- um conjunto de 
+2- conectar todos os 
+3- placa mãe e placa de rede
+4- temporariamente e acessada rapidamente
+5- amazon linux e IOS 
+KC- 3
+
+1- Servidor Web
+2- Várias Maquinas Virtuais... e As Maquinas Virtuais podem reduzir...
+3- Planejar e Analisar
+4- Oracle e MySQL
+5- Amazon EC2 
+KC- 4 
+
+1- Desenvolvedor de Software e Gerente de Projeto
+2- Desenvolvedor de Software
+3- Engenheiro de Garantia de Qualidade
+4- Proteger os Dados e Configurar acesso aos Dados
+5- Atribuir tarefas aos membros da equipe e Desenvolver um plano de projeto. 
+KC- 5
+
+1- Ela fornece recursos de tecnologia sob demanda
+2- O fornecedor terceirizado gerencia...
+3- Plataforma como Serviço (PaaS)
+4- Infraestrutura como Serviço (IaaS)
+5- Nuvem Hibrida 
+KC- 208
+
+1- Pagar apenas pelo que é consumido e Pagar apenas quando...
+2- As economias podem ser repassadas para os clientes quanto mais clientes usam a AWS.
+3- Velocidade e Agilidade maiores
+4- O tempo necessário...
+5- Os usuários podem implantar... 
+KC- 6
+
+1- Software como serviço (SaaS)
+2- A AWS é um provedor de serviços de nuvem...
+3- Armazenamento e Computação
+4- Kits, CLI e Console
+5- Tutoriais e Projetos 
+KC- 7 
+
+1- Tranferencia de dados de saida do Amazon S3 para o Amazon CloudFront na mesma região e Tranferencia de dados de entrada da internet para o Amazon S3
+2- Pagamento total antecipado, nenhum pagamento antecipado e pagamento antecipado parcial
+3- Estima os custos mensais de serviços, Pode ajudar a identificar... e Oferece aos clientes a capacidade de criar estimativas...
+4- Armazenamento, Computação, Transferência de dados
+5- Calculadora de preços da AWS 
+KC- 8 
+
+1- Escalabilidade
+2- Um ou mais data centers...
+3- Uma área geográfica no mundo
+4- Duas ou mais
+5- Uma rede global de entrega de conteúdo... 
+KC- 9
+
+1- Segurança da Nuvem
+2- Conformidade
+3- Garantir que os usuários insiram...
+4- IaaS
+5- SaaS 
+KC- 209
+
+1- S3 e Amazon EFS
+2- IAM
+3- Computação e Segurança, identidade e conformidade
+4- Amazon EC2
+5- Amazon VPC 
+KC- 10
+
+1- Chave do Objeto
+2- 11 9s
+3- S3 Glacier Deep Archive
+4- Tranferencia de dados para outras regiões
+5- Os nomes de buckets são universais... e Ele pode ser usado para hospedagem estática na web. 
+KC- 12 
+
+1- Ele fornece máquinas virtuais...
+2- Otimizada para memória
+3- Reinicializar
+4- Eles oferecem suporte adicionando regras que permitem o tráfego de fontes especificadas e Eles permitem todo o tráfego de saída por padrão.
+5- Instancia spot.
+
+KC- 226
+
+1- O Linux é de código aberto
+2- Kernel
+3- É um programa que fornece um serviço e é executado em segundo plano
+4- Man Hostname
+5- Kernel e Ferramentas e Aplicativos Complementares.
+KC- 228
+
+1- Bash
+2- Tab
+3- Up arrow
+4- Whoami
+5- Hostname
+
+KC- 230
+
+1- As senhas são definidas com o comando passwd e Os usuários podem redefinir...
+2- Acessar todos os arquivos para os quais... e Controlar todos os arquivos de propriedade...
+3- su
+4- usermod
+5- Sempre faça login como um usuário padrão e alterne o usuário para a conta raiz...
+
+KC- 232
+
+1- Vim
+2- ESC
+3- :wq
+4- :q!
+5- gedit
+
+KC- 234
+
+1- As extensões são opcionais e Os nomes dos aquivos diferenciam...
+2- /home
+3- pwd
+4- cd
+5- ls -la /var/log
+
+KC- 236
+
+1- File Name e File size
+2- cksum
+3- diff
+4- links simbólicos mostram um link fisico...
+5- -cvf 
+
+KC- 238
+
+1- chmod
+2- chmod 757
+3- ls -l 
+4- chown
+5- Primeiro, dê ao menor número de usuários o acesso...
+
+KC- 240
+
+1- ps -ef
+2- ps e pidof
+3- at e crontab
+4- -9 SIGKILL
+5- Pronto
+
+KC- 242
+
+1- Amazon CloudWatch
+2- systemctl list-units --type=service --=active
+3- vmstat
+4- df -h
+5- free
+
+KC- 244
+
+1- Código pré-compilado, Instruções de Instalação e Documentação
+2- yum update
+3- Use yum list instaled
+4- Unidade de disco rigido local, Site fornecedor on-line e Servidor interno
+5- wget
+
+KC- 246
+
+1- /var/log
+2- emergency
+3- Os sistemas de arquivo em um disco... e As informações pessoais de um usuário final... 
+4- head e tail
+5- lastlog
+
+KC- 248
+
+1- * e ?
+2- cd .. ; rm . csv ; ls.csv
+3- grep fail /var/log/secure.log
+4- Um editor de texto não interativo
+5- > e >>
+
+KC- 250
+
+1- Uma variável é um valor que é substituido pelo script ou comando
+2- HOME
+3- echo
+4- Arquivo .bachrc
+5- $PATH
+
+KC- 252
+
+1- Para automatizar uma tarefa repetitiva e Garantir que seja executada de forma correta e consistente.
+2- #!/bin/bash
+3- $2 e $4 são os argumentos.
+4- exit (sair)
+5- if - else (se, então)
+
+KC- 254
+
+1- Uma rede de computadores é uma coleção de dispositivos de computação...
+2- O servidor responde a uma solicitação do cliente.
+3- Camada 2
+4- É um identificador fisico exclusivo atribuido pelo...
+5- Switch
+KC- 255
+
+1- Uma LAN conecta nós e hosts em uma área geograficamente limitada. Uma WAN conecta várias LANs...
+2- Transit gateway da AWS
+3- Topologia de barramento estrela
+4- Ele envia uma mensagem para o destino sem garantir que o destino está disponível.
+5- Cria uma sessão entre o remetente e o receptor.
+
+KC- 256
+
+1- Uma impressora
+2- 10.255.255.255
+3- Endereço privado
+4- 32 bits
+5- Quando um numero de porta é combinado com um endereço...
+
+KC- 257
+
+1- Permite que você crie uma rede...
+2- Intervalo de IP
+3- Um banco de dados
+4- Ela determina para onde o tráfego de rede é direcionado dentro da Nuvem Privada Virtual.
+5- Ele atua como um firewall stateful que controla o tráfego de rede de entrada e o tráfego de rede de saída. 
+
+KC- 258
+
+1- Para dividir uma rede em sub-redes menores e mais eficiente e Para reduzir o tráfego de rede
+2- Classe A
+3- xxx.xxx.xxx.xxx/31
+4- 256
+5- Define qual seção de um endereço IP identifica a rede e qual seção de um endereço IP identifica os hosts.
+
+KC- 259
+
+1- SSL e TLS
+2- O número de porta padrão para HTTP é 80. e HTTP é um protocolo cliente-servidor.
+3- Sincronizar, reconhecer e SYN/ACK.
+4- tcpdump
+5- Protocolo de desktop remoto (RDP).
+
+KC- 260
+
+1- Protocolo de correios (pop)
+2- MQTT e HTTPS
+3- Fazer com que dispositivos possam se conectar na internet...
+4- BYOD e MDM
+5- Amazon WorkSpaces 
+
+
+KC- 282
+
+1- Ela garante que os recursos só possam ser acessados por usuários autorizados.
+2- Integridade.
+3- DDoS
+4- Prevenção.
+5- Documento da política de uso aceitável.
+
+KC- 283
+
+1- Identificar... Implementar... Avaliar...
+2- AWS System Manager 
+3- O Ativo valioso é protegido por muitas camadas...
+4- Reforço de sistemas, Reforço da rede e Controles de segurança de dados
+5- Conceder aos usuários acesso somente aos recursos que...
+
+KC- 284
+
+1- Verificação de Porta
+2- ICMP (Protocolo de Mensagem de controle  da Internet)
+3- Ele filtra pacotes que entram e saem de uma rede. 
+4- Permite que os administradores apliquem... Ela melhora o desempenho do tráfego de rede.
+5- Um firewall que protege instâncias do Amazon...
+
+KC- 285
+
+1- Minimizar os riscos de segurança reduzindo o conjunto de vulnerabilidades...
+2- Um ponto de partida para determinar o que proteger e como proteger um sistema
+3- Aplicar patches regularmente.
+4- Restringe acesso físico para instalações por meio de biometria, CCTV e assim por diante.
+5- AWS Trusted Advisor
+
+KC- 286
+
+1- Criptografia
+2- A chave é um segredo compartilhado entre o remetente e o receptor.
+3- Confidencialidade
+4- SSL e TLS
+5- O destinatário da mensagem.
+
+KC- 287
+
+1- As Autoridades de certificação (CAs)
+2- Uma credencial eletrônica usada para representar  a identidade de um individuo...
+3- Chave publica e chave privada
+4- O certificado da CA expirou
+5- Pela troca de chaves públicas que validam as identidades das partes.
+
+KC- 288
+
+1- Determinar as permissões do usuário.
+2- Leitor de impressão Digital.
+3- Ataque ao dicionário.
+4- Formato JSON
+5- Identidades Federadas.
+
+KC- 289
+
+1- Administrar usuarios e suas permissoes de acesso.
+2- Autorização e autenticação.
+3- Autenticação com multifator.
+4- Em um documento de política anexado aos usuários.
+5- Implementar politicas de senha.
+
+KC- 290
+
+1- Site não confiavel, dispositivo removivel
+2- Fazer uma varredura regular do sistema.
+3- Atualizar os arquivos de definição...
+4- Em uma rede, Em um servidor.
+5- Registro de fluxo da nuvem privada virtual (VPC).
+
+KC- 291
+
+1- Um serviço da web que usa arquivos de log para gravar eventos da Amazon Web Services (AWS).
+2- Fornece visibilidade gravando atividades de usuários e recursos... Simplifica as auditorias de conformidade registrando atividades e eventos em arquivos de log.
+3- O endereço IP de onde a solicitação se originou.... O usuário que executou a solicitação.
+4- Ativar a validação da integridade de arquivo do CloudTrail... Agregar arquivos de log em um único bucket do Amazon Simple Storage Service (Amazon S3).
+5- O CloudWatch monitora e reage a eventos gravados em arquivos de log do CloudTrail.
+
+KC- 292
+
+1- Uma ferramenta que rastreia mudanças nos recursos
+2- Envio de notificações quando ocorre uma alteração de configuração em um recurso da Amazon Web Services (AWS)... Recuperação de inventário de recursos da Amazon Web Services (AWS).
+3- AWS Lambda
+4- O AWS Config usa o Amazon Simple Notification Service... O AWS Config registra e armazena a alteração em um bucket...
+5- Quando a configuração do recurso é alterada.
+
+KC- 293
+
+1- Plano de continuidade de negócios (BCP)... Plano de recuperação de desastres (DRP)
+2- Definir como administrar o negócio com capacidade reduzida
+3- Definir como restaurar a funcionalidade...
+4- Foca na recuperação apenas de dados... Representa a quantidade de perda de dados tolerada por uma empresa.
+5- Chama piloto.
+KC- 294
+
+1- Análise.
+2- Estabelecer um cronograma, começando...
+3- Fornece os dados usados...
+4- Como a violação aconteceu? Como a violação poderia ser evitada?
+5-  Quais recursos são monitorados?...  Quem realiza as tarefas de monitoramento?
+
+KC- 295
+
+1- Otimização de Custos e Tolerância a falhas.
+2- Uso do AWS Identity and Access Management (IAM)... Autenticação com multifator (MFA) em conta raiz
+3- A ação é recomendada.
+4- 80%
+5- Adicionar regras que dão acesso a endereços IP autorizados ao grupo de segurança identificado.
+
+KC- 296
+
+1- Email.
+2- Acesso completo a todos os serviços da AWS
+3- CloudTrail
+4- Exigir autenticação com multifator...
+5- Criar ou selecionar um bucket do Amazon Simple Storage Service...
+
+KC- 297
+
+1- Regulatório e contratual
+2- Regulamento contratuais 
+3- O cliente e AWS compartilham...
+4- Criar e manter 
+5- Publicando informações sobre segurança... 
+Disponibilizando informações
+KC- 298
+
+1- Equipes em conta da AWS... Consultorias e boletins da AWS
+2- Equipes em conta da AWS... Caminho de aprendizagem para auditores da AWS...
+3- Consultorias e boletins da AWS 
+4- Um technical account manager (TAM) da AWS dedicado... Suporte 24 horas por dia, 7 dias por semana, por telefone, chat ou e-mail
+5- Eles orientam os clientes durante a implantação e implementação.
+
+KC- 117
+
+1- Um arquivo de texto com instruções para o computador.
+2- Todo programa é primeiro traduzido em código de máquina...
+3- Escreva um pouco > Teste > Escreva um pouco mais > Teste.
+4- Controle de Versão
+5- Git
+KC- 119
+
+1- JavaScript e Python
+2- IDEs sugerem soluções para problemas... IDEs destacam sintaxe incorreta...
+3- daysinWeek = 7
+4- for 
+5- if e elif
+KC- 121
+
+1- sobrenomedocliente e nomedocliente1
+2- Strings e Inteiros
+3- msg = "Sou uma" + "mensagem"... msg = "Sou uma mensagem"
+4- 15
+5- msg2 = msg + 12
+
+KC- 123
+
+1- Se o cliente já tiver feito mais de cinco compras, conceda a ele um desconto de cinco por cento.
+2- Adulto
+3- É executado enquanto uma condição for verdadeira... Pode ser executado indefinidamente.
+4- Podem conter vários tipos de dados [como string, int ou float].
+5- if/else... if/elif/else
+KC- 125
+
+1- escrevendo funções personalizadas
+2- uma função que retorna algo
+3- def calculateVAT(preço, país)
+4- input()
+5- capacidade de reutilização
+
+KC- 127
+
+1- Conjunto de funções agrupadas
+2- loads
+3- Para transformar dados que serão enviados ou recebidos de uma rede.
+4- Um gerenciador de pacotes Python.
+5- Para detectar e gerenciar erros...
+
+KC- 223
+
+1- subprocess.run()
+2- Garantir a estabilidade do sistema.
+3-  apt-get upgrade
+4- Instalação de novo hardware ou software
+5- Adicionando um usuário.
+
+KC- 131
+
+1- Use uma ferramenta de depuração para análise dinâmica.
+2- Bugs podem ser detectados no início do processo de desenvolvimento...  É possível identificar a localização exata dos problemas de código.
+3- Identificar os erros sob certas condições em tempo de execução
+4- Testes unitários
+5- Testes de integração.
+
+KC- 299
+
+1- Uma coleção de dados que são organizados em tabelas
+2- tabelas e colunas
+3- Bancos de dados NOSQL têm um esquema flexível... Bancos de dados NoSQL usam modelos de dados que não são baseados em tabelas relacionais.
+4- Anomalia de estrutura.
+5- Esses bancos de dados reduzem o custo de instalação e manutenção dos servidores.
+
+KC- 300
+
+1- Atomicidade.
+2- Criar aplicativos diferentes que podem receber dados.
+3- Uma transação é a reprodução de uma ou mais alterações realizadas em um banco de dados.
+4- A capacidade de processar concomitantemente várias transações...
+5- Uma transação em um banco de dados tem êxito se a transação for confirmada.
+
+KC- 301
+
+1- São usadas para criar e modificar a estrutura de um banco de dados.
+2- Recuperar dados de uma tabela.
+3- É uma referência a uma coluna em outra tabela.
+4- As chave-valores estrangeiras devem corresponder a uma chave-valor primária existente.
+5- São usadas para visualizar, adicionar, alterar, ou excluir dados em uma tabela.
+
+KC- 302
+
+1- Para importar ou exportar dados dos bancos de dados e planilhas
+2- É usado para representar um valor ausente.
+3-  Confirme se a estrutura dos dados no arquivo corresponde ao número de colunas da tabela e ao tipo de dados em cada coluna.
+4- Combina strings de várias colunas e as reúne em uma linha.
+5- Para adicionar novos dados a um banco de dados... Para adicionar um novo registro a uma tabela
+
+KC- 303
+
+1- A cláusula WHERE solicita apenas linhas específicas de uma tabela.
+2- FROM.
+3- Condition.
+4- Seleciona todas as colunas.
+5- -- comment
+
+KC-138
+
+1- As equipes trabalham juntas da mesma maneira.
+2- pylint
+3- Gerenciamento de configuração significa usar ferramentas para monitorar alterações de código e revertê-las, se necessário.
+4- Enviar as alterações ao repositório.
+5- Software de controle de versão
+KC-305
+
+1- Count()
+2- Select distinct
+3- Ltrim()
+4- Sum
+5- Distinct
+KC- 137
+
+1- Conjunto de práticas e cultura...
+2- Cultura Adhocrática
+3- Versão e Implantação
+4- Compilação e Teste
+5- Automação da compilação
+
+KC- 304
+
+1- Between
+2- Like
+3- Aliases criam nomes temporários para colunas
+4- Like
+5- NULL value
+
+KC- 307
+
+1- UNION
+2- table_name.comlumn_name
+3- INNER JOIN
+4- LEFT JOIN
+5- AS
+KC-306
+
+1- Group By
+2- Having
+3- DESC
+4- O resultado da consutla será organizado pela terceira coluna na cláusula SELECT da declaração...
+5- Having SUM(sales) > 5000 
+
+KC- 308
+
+1- Periodic backups 
+2- Choose the DB engine
+3- Deploying the DB instance in multiple Abailability Zones
+4- Complex transactions or comples queries
+5- An Aurora DB cluster consists of one or more DB instances and a cluster volume that manages the data for those DB instances.
+KC- 309
+
+1- NoSQL database
+2- By using a collection of multiple replica tables.
+3- Partitioning is the allocation of storage for a table.
+4- Partition heys uniquely identify...
+5- Two ways
+
+KC-210
+
+1- Implantação
+2- AWS Identity and Acccess Management
+3- Politica baseada em recursos
+4- Use funções do IAM... Delegar funções administrativas...
+5- stop-instances
+
+KC- 212
+
+1- Imagem de máquica da Amazon (AMI)
+2- Security group
+3- Endereço IP elástico
+4- Atribuir uma função de AWS Identify...
+5- Uso geral
+KC- 211
+
+1- Documento de automação
+2- armazenamento de parâmetro
+3- Gerenciador de sessão
+4- JavaScript Object e  YAML
+5- AWS OpsWorks
